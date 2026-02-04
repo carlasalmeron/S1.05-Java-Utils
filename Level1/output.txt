@@ -1,0 +1,5 @@
+(D) testFolder
+  (F) file1.txt
+  (F) file2.txt
+  (D) subFolder
+    (F) file3.txt
